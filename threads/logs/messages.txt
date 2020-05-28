@@ -1,0 +1,10 @@
+3.-loggin.py  Wednesday 27-05-2020 22:48:17 SA Pacific Standard Time
+3.-loggin.py  Wednesday 27-05-2020 22:48:17 SA Pacific Standard Time
+3.-loggin.py  Wednesday 27-05-2020 22:48:17 SA Pacific Standard Time
+3.-loggin.py  Wednesday 27-05-2020 22:48:17 SA Pacific Standard Time
+3.-loggin.py  Wednesday 27-05-2020 22:48:17 SA Pacific Standard Time
+3.-loggin.py -- Debug message -- Wednesday 27-05-2020 22:51:49 SA Pacific Standard Time
+3.-loggin.py -- Info message -- Wednesday 27-05-2020 22:51:49 SA Pacific Standard Time
+3.-loggin.py -- Warning message -- Wednesday 27-05-2020 22:51:49 SA Pacific Standard Time
+3.-loggin.py -- Error message -- Wednesday 27-05-2020 22:51:49 SA Pacific Standard Time
+3.-loggin.py -- Critical message -- Wednesday 27-05-2020 22:51:49 SA Pacific Standard Time
